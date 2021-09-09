@@ -3,9 +3,9 @@
 
 body{
   font-family: "Georgia ", serif;
-  color:black;
+  color: #000000;
   line-height: 140%;
-  margin:30px;
+  margin: 30px;
   background-image: url("paper-bg.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -15,7 +15,7 @@ header h1 {
   font-size: 350%;
   color: #7C1A00;
   padding:40px 40px 40px 120px;
-  background-image: ("header-image-1.gif");
+  background-image: url("header-image-1.gif");
   background-position: left top;
   background-repeat: no-repeat;
 }
