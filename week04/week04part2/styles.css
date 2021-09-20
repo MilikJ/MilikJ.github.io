@@ -20,12 +20,12 @@ body {
 
 h1, h2, h3 {
   font-family: 'Cinzel Decorative', cursive;
-  color: #2a2a2a;
+  color: #gray;
 }
 
 p, input, li {
   font-family: 'Roboto Condensed', sans-serif;
-  color: #2a2a2a;
+  color: #gray;
 }
 
 h1 {
@@ -67,7 +67,7 @@ body > * {
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: rgba(0,255,0,0.5);
+  background-color: rgba(200,0,0,0.2);
   padding: 1%;
 }
 
@@ -108,7 +108,7 @@ nav a, nav span {
   line-height: 1.7;
   text-transform: uppercase;
   text-decoration: none;
-  color: black;
+  color: white;
 
 }
 
@@ -135,7 +135,7 @@ aside a {
 }
 
 aside img {
-  max-width: 100%;
+  max-width: 200%;
 }
 
 footer {
